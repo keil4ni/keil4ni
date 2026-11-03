@@ -1,4 +1,4 @@
-## Hi 👋
+## hi 👋
 
 <!--
 **keil4ni/keil4ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+i'm a 3rd-yr transfer student @ ucsd majoring in data science & minoring in business analytics.
 
+-  🔭 currently working on my senior capstone project
+-  🌱 currently (re)learning aws through my current internship w/ idx exchange
+-  💬 ask me about my projects!
+-  📫 how to reach me: knli@ucsd.edu
+-  ⚡ fun fact: i made my pfp based off my maplestory character :]
